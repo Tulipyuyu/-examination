@@ -20,9 +20,10 @@ $comcolor:#ff6700;
         line-height: 58px;
         float: right;
         font-size:12px;
-        color:#999;
+        color: #ccc;
         i{
             margin-left: 5px;
+            color:red;
         }
     }
     .content{
@@ -92,7 +93,7 @@ $comcolor:#ff6700;
 }
 // 小米部分
 .goods_wraper{
-    background-color: #f3f8ff;
+    background-color: #ccc;
     overflow: hidden;
     padding: 60px 0;
     .goods{
